@@ -64,5 +64,7 @@ console.log('Say my name');
 22. git commit -m "НОРМАЛЬНЫЙ КОММЕНТАРИЙ"
 23. git push (пушить после каждого задания)
 
+если не работает make lint можно попробовать npm run lint и npm run lint:fix
+
 
 
